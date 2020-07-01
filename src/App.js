@@ -1,6 +1,8 @@
 import React from 'react';
 // import './App.css';
-const url = 'http://127.0.0.1/:8000/api/shoe/?format=json'
+const url = 'http://127.0.0.1:8000/api/shoe/';
+
+
 
 class App extends React.Component {  
   constructor(props) {
