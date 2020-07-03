@@ -33,7 +33,7 @@ class App extends React.Component {
              Size: {shoe.size}
            </li>
            <li>
-             Brand: {shoe.brand}
+             Brand: {shoe.brand_name}
            </li>
            <li>
              Manufacturer: {shoe.manufacturer} 
